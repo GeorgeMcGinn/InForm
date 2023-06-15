@@ -1,5 +1,7 @@
 # InForm
 
+***This project is not active anymore and has moved to [InForm-PE](https://github.com/a740g/InForm-PE).***
+
 ![InForm logo](InForm/resources/Application-icon-128.png)
 
 A GUI engine and WYSIWYG interface designer for QB64 and QB64-PE
